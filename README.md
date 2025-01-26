@@ -10,12 +10,15 @@ This Excel dashboard analyzes key workplace factors such as stress levels, work-
 
 ## Features
 - **Work-Life Balance by Job Position:** Visualizes average work-life balance ratings for different roles within the organization.
-  ![Work-Life Balance Rating by Job Role](WLBRatingByJobRole.png)
+
+   ![Work-Life Balance Rating by Job Role](WLBRatingByJobRole.png)
 
 - **Stress Levels Across Industries and Regions:** Highlights stress distribution across various industries and geographic locations.
+
   ![Stress Levels by Region](StressLevelByRegion.png)
 
 - **Mental Health Issues by Work Location:** Shows trends in mental health challenges based on employee location.
+
   ![Mental Health Condition by Work Location](MentalHealthCondition-WorkLocation.png)
 
 ## Tools Used
